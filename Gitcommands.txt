@@ -1,0 +1,5 @@
+working directory which we work on our projects 
+staging area 
+local repository where the files are stored locally in our pc 
+remote repository anyone access the files and commit the changes 
+HIII - DEv
