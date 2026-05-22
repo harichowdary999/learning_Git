@@ -25,6 +25,9 @@ public class attendence {
             }
         }
         // Close the scanner to prevent resource leaks
+
+        //change from main branch
+
         scanner.close();
     }
 }
