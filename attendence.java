@@ -24,7 +24,10 @@ public class attendence {
                 System.out.println("Status: Not eligible / Poor attendance.");
             }
         }
+        // Close the scanner to prevent resource leaks
+
         //change from main branch
+
         scanner.close();
     }
 }
